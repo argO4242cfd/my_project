@@ -2,7 +2,7 @@ This is a collection of all the project done during my educational path, there a
 
 A short explanation of all the folders: 
 
-CONTRO OF PROCESS: the project consistes of some exercises based on the assignment in the same folder, plus a report who analyses the results. 
+CONTROL OF PROCESS: the project consistes of some exercises based on the assignment in the same folder, plus a report who analyses the results. 
 
 ENERGY CONVERSION: the project is focused on the performance of a water turbine paired witha diffusor, in order to increase the efficiency. 
 
